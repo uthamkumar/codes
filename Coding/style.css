@@ -1,0 +1,54 @@
+.main-heading{
+    background-color: #BFBFBF; text-align: center;
+    margin-top: 10px;
+}
+
+.suffle-numbers-main-row{
+    margin-top: 3%;
+    
+}
+
+
+.screen-card{
+    padding: 22px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+    font-size: 70px;
+}
+
+
+.item-margin{
+margin-bottom: 10px;
+}
+
+.event-button{
+    background-color: #72c3dc;
+    box-shadow: 3px 1px #72c3dc;
+    color: #ffffff;
+}
+
+.board-mobile-card{
+    color: gary;
+    background-color: #EFEFEF;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 15px;
+}
+
+
+.mobile-heading{
+    background-color: #000000; text-align: center;
+    margin-top: 10px;
+    color: #ffffff;
+}
+.shuffle-center{
+    text-align: center;
+}
+
+
+/* #2B8EAD */
+/* #EFEFEF */
+/* #333333 */
+
+/* #72c3dc */
